@@ -1,0 +1,28 @@
+{
+  "name": "cyl.libray",
+  "homepage": "https://github.com/keehyun2/cyl.libaray",
+  "authors": [
+    "keehyunPark <keehyun2@gmail.com>"
+  ],
+  "description": "cyberline forntweb library",
+  "main": "",
+  "keywords": [
+    "cyberline"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cyl.tableSpan": "./cyl/cyl.tableSpan.js",
+    "cyl.thSort": "./cyl/cyl.thSort.js"
+  },
+  "devDependencies": {
+    "cyl.tableSpan": "./cyl/cyl.tableSpan.js",
+    "cyl.thSort": "./cyl/cyl.thSort.js"
+  }
+}
