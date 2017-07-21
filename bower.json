@@ -18,11 +18,11 @@
     "tests"
   ],
   "dependencies": {
-    "cyl.tableSpan": "./cyl/cyl.tableSpan.js",
-    "cyl.thSort": "./cyl/cyl.thSort.js"
+    "cyl.tableSpan": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.tableSpan.js",
+    "cyl.thSort": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.thSort.js"
   },
   "devDependencies": {
-    "cyl.tableSpan": "./cyl/cyl.tableSpan.js",
-    "cyl.thSort": "./cyl/cyl.thSort.js"
+    "cyl.tableSpan": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.tableSpan.js",
+    "cyl.thSort": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.thSort.js"
   }
 }
