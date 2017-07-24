@@ -16,13 +16,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "cyl.tableSpan": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.tableSpan.js",
-    "cyl.thSort": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.thSort.js"
-  },
-  "devDependencies": {
-    "cyl.tableSpan": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.tableSpan.js",
-    "cyl.thSort": "https://github.com/keehyun2/cyl.libaray/tree/master/cyl/cyl.thSort.js"
-  }
+  ]
 }
