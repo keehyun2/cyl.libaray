@@ -4,7 +4,6 @@
   "authors": [
     "keehyunPark <keehyun2@gmail.com>"
   ],
-  "version": "1.3.0",
   "description": "cyberline forntweb library",
   "main": [
     "cyl/cyl.library.js"
