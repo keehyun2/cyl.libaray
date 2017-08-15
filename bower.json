@@ -6,8 +6,7 @@
   ],
   "description": "cyberline forntweb library",
   "main": [
-    "cyl/cyl.tableSpan.js",
-    "cyl/cyl.thSort.js"
+    "cyl/cyl.library.js"
   ],
   "keywords": [
     "cyberline",
