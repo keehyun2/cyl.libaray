@@ -5,7 +5,10 @@
     "keehyunPark <keehyun2@gmail.com>"
   ],
   "description": "cyberline forntweb library",
-  "main": "",
+  "main": [
+    "cyl/cyl.tableSpan.js",
+    "cyl/cyl.thSort.js"
+  ],
   "keywords": [
     "cyberline",
     "cyl"
@@ -20,5 +23,12 @@
   ],
   "dependencies": {
     "jquery": "^3.2.1"
+  },
+  "install": {
+    "path": {
+      "css": "static/css",
+      "js": "static/js",
+      "less": "static/less"
+    }
   }
 }
